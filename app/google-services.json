@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331695321475",
+    "project_id": "cs2340-project-2-c3570",
+    "storage_bucket": "cs2340-project-2-c3570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331695321475:android:9f1e2f79a807274c7946b6",
+        "android_client_info": {
+          "package_name": "com.example.cs2340project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjSEL5mUuXjLCOIWvU6GmUIZa7g-Vq3Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
